@@ -1,0 +1,66 @@
+.login_form_wrap {
+	width: 250px;
+	margin: 100px auto;
+	padding: 20px 100px;
+	border-top: 5px solid #1c1c1c;
+	background-color: #d1d1d1;
+}
+
+.login_form_wrap label, input[type=text], input[type=submit] {
+	display: block;
+}
+
+.login_form_wrap input[type=submit] {
+	padding: 5px 30px;
+}
+
+.main_form_wrap {
+	width: 450px;
+	margin: 100px auto;
+	padding: 20px 100px;
+	border-top: 5px solid #1c1c1c;
+	background-color: #d1d1d1;
+}
+
+.view_form_wrap {
+	width: 850px;
+	margin: 100px auto;
+	padding: 20px 100px;
+	border-top: 5px solid #1c1c1c;
+	background-color: #d1d1d1;
+}
+
+.main_form_wrap label, input[type=text], input[type=submit] {
+	display: block;
+}
+
+.main_form_warp select {
+	display: block;
+}
+
+
+.col_wrap {
+	margin: 20px 0;
+}
+
+.floated_left {
+	float: left;
+}
+
+.floated_right {
+	float: right;
+}
+
+.clear {
+	margin-bottom: 10px;
+	clear: both;
+}
+
+.centered {
+	text-align: center;
+
+}
+
+.red_text {
+	color: red;
+}
