@@ -1,4 +1,4 @@
-<h2 class="centered">User Login is Required</h2>
+<h2 class="centered">User Login Is Required</h2>
 <form name="form1" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 		<label for="user_name" class="floated_left">Username</label>
 		<input name="user_name" type="text" id="user_name" class="floated_right" <?php if(isset($_POST['user_name'])) echo "value=" . $_POST['user_name']; ?>>
